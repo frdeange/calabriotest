@@ -1,0 +1,28 @@
+--------------------Absence Workflow----------------------
+Part Day
+
+User - Show me part day absence slots for next week(13Oct-18Oct)
+BOT- Holiday(SD- 13 Oct), Part Day(PA- Y, Remaining- 200 minute)(SD- 15 Oct), Sick Leave(SD- 14 Oct), AWOL(SD- 13 Oct), Paternity(PA- Y, Remaining Balance- 10 Days)(SD- 13 Oct)
+User- Sick Leave
+User - 13-Oct
+BOT- Sick Leave Not available you can apply with Holiday(Minimum Duration, Increment),AWOL(Minimum Duration, Increment),Paternity(Minimum Duration, Increment)
+User - Holiday
+Bot- Please confirm time range
+User- 1PM-4PM
+Bot- Display Recomanded Slots(According Absence type & Selected Date)
+User- Select Recomanded Slots
+Bot- Absence successfully apply with pending status.
+
+Full Day
+
+User- Show me full day slots for next week
+BOT- Holiday(SD- 13 Oct), Part Day(PA- Y, Remaining- 200 minute)(SD- 15 Oct), Sick Leave(SD- 14 Oct), AWOL(SD- 13 Oct), Paternity(PA- Y, Remaining Balance- 10 Days)(SD- 13 Oct)
+User- Patermity Leave
+Bot- Confirm Date Range
+User- 13-16
+Bot- This Leave available please provide subject/message if you want other wise apply leave
+User- apply
+Bot- Absence successfully apply with pending status.
+
+
+
