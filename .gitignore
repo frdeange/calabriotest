@@ -54,3 +54,5 @@ Thumbs.db
 metrics_*.json
 timing_report_*.txt
 OPTION2/src/tools/overtime_tools.py
+
+COMPARISON_REPORT.md
